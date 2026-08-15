@@ -344,7 +344,7 @@ IMAP を選んだ場合、**IMAPパスプレフィックス**に `INBOX` の指�
 | Thunderbird | https://help.sakura.ad.jp/mail/2132/ |
 | Becky! Internet Mail ver.2 | https://help.sakura.ad.jp/mail/2130/ |
 | メール（Windows 10・11） | https://help.sakura.ad.jp/mail/2134/ |
-| Mac / iOS（かんたん設定） | https://help.sakura.ad.jp/mail/2113/ |
+| Mac / iOS のメールソフトかんたん設定 | https://help.sakura.ad.jp/mail/2113/ |
 | Outlook(new) ※**推奨されていません** | https://help.sakura.ad.jp/mail/2869/ |
 
 ---
@@ -482,7 +482,7 @@ IMAP を選んだ場合、**IMAPパスプレフィックス**に `INBOX` の指�
 - [Mozilla Thunderbird の設定をしたい](https://help.sakura.ad.jp/mail/2132/)
 - [Becky! Internet Mail ver.2 の設定をしたい](https://help.sakura.ad.jp/mail/2130/)
 - [メール（Windows 10・11）の設定をしたい](https://help.sakura.ad.jp/mail/2134/)
-- [Mac / iOS のかんたん設定](https://help.sakura.ad.jp/mail/2113/)
+- [Mac / iOSのメールソフトかんたん設定を利用したい](https://help.sakura.ad.jp/mail/2113/)
 
 ### セキュリティ・トラブル対応
 
@@ -493,7 +493,16 @@ IMAP を選んだ場合、**IMAPパスプレフィックス**に `INBOX` の指�
 - [メールパスワードがわからない](https://faq.sakura.ad.jp/s/article/000001143)
 - [メールソフトで設定、利用時にエラーが表示される](https://faq.sakura.ad.jp/s/article/000001140)
 - [エラーメールの理由と対策を知りたい](https://help.sakura.ad.jp/rs/2265/)
-- [POPとIMAPの違い](https://rs.sakura.ad.jp/column/rs/mail-setting/)
+- [さくらのレンタルサーバでメールを使う方法は？](https://rs.sakura.ad.jp/column/rs/mail-setting/)
+  — **コラム記事**（「さくらのホームページ教室」連載、スタッフ署名）。
+  STEP 4 からは「POPとIMAPの違い」というアンカーテキストで参照されている
+
+### リンクの到達確認について
+
+上記のうち**18本は到達を確認**しました（2026年8月15日）。
+`faq.sakura.ad.jp` の3本は**自動取得では本文を読めず、未確認**です。
+内訳と、この確認で見つかった自分の誤り2件は
+[検証チェックリスト](./verification-checklist.md#jリンクの到達確認2026年8月15日実施3本が未確認のまま) に記載しています。
 
 公式文書の全文転載はしていません。引用は出典を併記した短い範囲に留めています。
 さくらインターネット株式会社のロゴ、公式画面の画像は使用していません。
