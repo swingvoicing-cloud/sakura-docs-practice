@@ -77,7 +77,7 @@ Thunderbird）での送受信までを確かめました。
 | 文書 | 内容 |
 |---|---|
 | [STEP 4 改訂案](./docs/step4-email-proposal.md) | 「メールを設定する」の改訂を試作しました。実機で確かめ、試作を4か所直しています |
-| [つまずき記録](./docs/first-user-friction-log.md) | 初見で止まった箇所を11件。誤って書いた診断は、訂正の経緯ごと残しています |
+| [つまずき記録](./docs/first-user-friction-log.md) | 初見で止まった箇所を14件。誤って書いた診断は、訂正の経緯ごと残しています |
 | [検証チェックリスト](./docs/verification-checklist.md) | 公開前に自分の文書を点検した記録。見つかった自分の誤りも含みます |
 | [実操作記録（クラウド）](./docs/cloud-hands-on-log.md) | 操作の手順と結果 |
 
